@@ -1,0 +1,32 @@
+@import "tailwindcss";
+@source "../node_modules/flowbite-datepicker";
+
+body{
+  background-image: url('/images/Panel.jpg');
+  background-size: cover;
+} 
+
+/* Global CSS */
+body.appointment-body {
+  background-image: url('/images/appointment.jpg');
+  background-size: cover;
+}
+
+/* .appointment-page {
+   background-image: url('/images/appointment.jpg');
+  background-size: cover;
+ 
+} */
+ .appointment-booked {
+  background-image: url('/images/Paws.jpg');
+  height: 100vh;
+  background-position: top center;
+  background-repeat: no-repeat;
+}
+
+.registered {
+  background-image: url('/images/paw.png');
+  height: 100vh;
+  background-position: top center;
+  background-repeat: no-repeat;
+}
