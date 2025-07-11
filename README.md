@@ -1,2 +1,3 @@
 # myhospital
-React Project
+React Project for hospital Management System
+
